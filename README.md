@@ -33,5 +33,5 @@ This project implements a sales forecasting system using a linear regression mod
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sales-forecast.git
+   git clone https://github.com/alimustafa0/Sales-Forecast-with-Linear-Regression-Model
    ```
